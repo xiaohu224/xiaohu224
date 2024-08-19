@@ -1,11 +1,12 @@
 ### Hi there 👋 I'm Xiaohu224!
 - “學好數理化，走遍天下都不怕”
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohu224)](https://github.com/xiaohu224/github-readme-stats)[![trophy](https://github-profile-trophy.vercel.app/?username=xiaohu224)](https://github.com/xiaohu224/github-profile-trophy)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohu224)](https://github.com/xiaohu224/github-readme-stats)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=xiaohu224)](https://github.com/xiaohu224/github-profile-trophy)
 
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
+[![Ubnutu Linux](https://img.shields.io/badge/Ubnutu%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://https://ubuntu.com/)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
 
 
@@ -17,18 +18,3 @@
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
-
-<!--
-**xiaohu224/xiaohu224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
