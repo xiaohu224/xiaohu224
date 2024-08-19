@@ -1,7 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohu224)](https://github.com/xiaohu224/github-readme-stats)
-
 ### Hi there 👋 I'm Xiaohu224!
 - “學好數理化，走遍天下都不怕”
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohu224)](https://github.com/xiaohu224/github-readme-stats)[![trophy](https://github-profile-trophy.vercel.app/?username=xiaohu224)](https://github.com/xiaohu224/github-profile-trophy)
 
 
 ### 💻 Environment
@@ -12,9 +11,9 @@
 
 ### 📱 Devices
 [![Xiaomi 6X](https://img.shields.io/badge/Xiaomi%206X-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/a/h/6181.html)
-![Redmi Turbo 3](https://img.shields.io/badge/Redmi%20K40-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![MIJIA temperature and humidity sensor](https://img.shields.io/badge/RedmiBook%20Pro%2015-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![Mijia ceiling lamp](https://img.shields.io/badge/RedmiNote%2011T%20Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
+![Redmi Turbo 3](https://img.shields.io/badge/Redmi%20Turbo%203-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=)
+![MIJIA temperature and humidity sensor](https://img.shields.io/badge/MIJIA%20temperature%20and%20humidity%20sensor-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
+![Mijia ceiling lamp](https://img.shields.io/badge/Mijia%20ceiling%20lamp-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
