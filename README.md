@@ -3,6 +3,9 @@
 
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohu224)](https://github.com/xiaohu224/github-readme-stats)
 
+<div align="center">
+  <img src="https://img.shields.io/github/followers/xiaohu224?label=Followers&style=social" alt="Followers" />
+</div>
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
