@@ -19,7 +19,6 @@
 ![Redmi Turbo 3](https://img.shields.io/badge/Redmi%20Turbo%203-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=)
 ![MIJIA temperature and humidity sensor](https://img.shields.io/badge/MIJIA%20temperature%20and%20humidity%20sensor-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![Mijia ceiling lamp](https://img.shields.io/badge/Mijia%20ceiling%20lamp-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-  [![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=xiaohu224)](https://github.com/xiaohu224/github-profile-trophy)
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
@@ -29,3 +28,4 @@ Java                █░░░░░░░░░░░░░░░  01 %
 C                   ░░░░░░░░░░░░░░░░░░  0 % 
 Markdown            ░░░░░░░░░░░░░░░░░░  0 %
 Others              █░░░░░░░░░░░░░░░░░  9 %
+
