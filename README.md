@@ -4,8 +4,7 @@
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohu224)](https://github.com/xiaohu224/github-readme-stats)
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/xiaohu224?label=Followers&style=social" alt="Followers" />
-
+  <img alt="Count" src="https://count.getloli.com/@github-xiaohu224?theme=minecraft" width="500">
 </div>
 
 ### 💻 Environment
