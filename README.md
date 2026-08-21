@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Xiaohu224!
 - “學好數理化，走遍天下都不怕”
 
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohu224)](https://github.com/xiaohu224/github-readme-stats)
 
 <div align="center">
   <img alt="Count" src="https://count.getloli.com/@github-xiaohu224?theme=minecraft" width="500">
